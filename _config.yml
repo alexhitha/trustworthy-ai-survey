@@ -1,0 +1,14 @@
+title: Fault Localization in AI Agents
+description: A survey and resource guide on fault localization in LLM-based AI agents — papers, tools, datasets and benchmarks.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "View on GitHub": "https://github.com/alexhitha/trustworthy-ai-survey"
+
+footer_content: "A literature survey on fault localization in AI agents · 2026"
