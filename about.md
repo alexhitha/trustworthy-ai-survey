@@ -12,5 +12,5 @@ This site is a literature survey and resource guide on fault localization in LLM
 _Disclosure of substantial AI use: which tools were used, what they were used for, and how their output was verified or revised._
 
 - **Website structure and layout:** The site skeleton (page structure, Just the Docs setup) and the first draft of the overview text were created with Claude (Anthropic); I reviewed and edited them. *(Disclosure will be updated as the project progresses.)*
-- **Literature search:** _..._
-- **Summaries:** _..._
+- **Literature search:** Claude helped search for papers and check their publication details. I chose which papers to include.
+- **Summaries:** Claude drafted the summaries and tables from the papers. I read the papers and checked the drafts against them.
