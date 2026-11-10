@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Fault Localization in AI Agents
+# AI Agent Safety: Fault Localization in AI Agents
 {: .fs-9 }
 
 A survey of research on finding *where* and *why* LLM-based agents fail.

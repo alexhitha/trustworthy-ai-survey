@@ -1,4 +1,4 @@
-title: Fault Localization in AI Agents
+title: "AI Agent Safety: Fault Localization in AI Agents"
 description: A survey and resource guide on fault localization in LLM-based AI agents — papers, tools, datasets and benchmarks.
 remote_theme: just-the-docs/just-the-docs
 plugins:
