@@ -1,5 +1,6 @@
 <script>
-  // Open links to other websites in a new tab, so readers can return to this site.
+  /* Open links to other websites in a new tab, so readers can return to this site.
+     Block comment on purpose: the theme squeezes HTML onto one line, so a line comment would disable the code. */
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll("a[href^='http']").forEach(function (link) {
       if (link.hostname !== window.location.hostname) {
